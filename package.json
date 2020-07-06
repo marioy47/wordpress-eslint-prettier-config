@@ -1,0 +1,23 @@
+{
+  "name": "wordpress-eslint-prettier-config",
+  "version": "1.0.0",
+  "description": "This is a basic repo that serves as a guide on how to configure eslint and prettier for a WordPress project.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioy47/wordpress-eslint-prettier-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "prettier",
+    "wordpress",
+    "editorconfig"
+  ],
+  "author": "Mario Yepes <marioy47@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marioy47/wordpress-eslint-prettier-config/issues"
+  },
+  "homepage": "https://github.com/marioy47/wordpress-eslint-prettier-config#readme",
+  "devDependencies": {}
+}
