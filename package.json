@@ -19,5 +19,8 @@
     "url": "https://github.com/marioy47/wordpress-eslint-prettier-config/issues"
   },
   "homepage": "https://github.com/marioy47/wordpress-eslint-prettier-config#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-plugin-react": "^7.20.3"
+  }
 }
