@@ -2,7 +2,10 @@
   "name": "wordpress-eslint-prettier-config",
   "version": "1.0.0",
   "description": "This is a basic repo that serves as a guide on how to configure eslint and prettier for a WordPress project.",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint src/js/**/*js",
+    "lint:fix": "eslint src/js/**/*.js --fix"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marioy47/wordpress-eslint-prettier-config.git"
