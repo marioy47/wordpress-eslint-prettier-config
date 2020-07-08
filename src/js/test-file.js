@@ -3,12 +3,12 @@
 var first_var;
 
 
-function aSimpleFunction()
+
+                function aSimpleFunction()
 { console.log('Hola mundo') }
 
-function anotherFunction(event) {
-      console.log('This one is used');
-}
+function anotherFunction(event)
+{ console.log('This one is used'); }
 
 let other = document.getElementById('the-element-id')
 
