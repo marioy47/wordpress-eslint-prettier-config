@@ -1,4 +1,6 @@
 // src/js/test-file.js
+/* eslint-disable no-var, no-unused-vars, camelcase, prefer-const, prettier/prettier */
+
 
 var first_var;
 
@@ -13,3 +15,4 @@ function anotherFunction(event)
 let other = document.getElementById('the-element-id')
 
 anotherFunction(null);
+
